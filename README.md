@@ -1,5 +1,3 @@
-Simple and basic Exploratory data analysis
-
 # Simple and a basic Exploratory Data Analysis using Excel and Tableau 
 
 We intend to explore and analyze the "INFLUENCE OF AGE ON PLAYERS IN THE GAME OF FOOTBALL" by following the simple Data Anaylysis Pipeline.
