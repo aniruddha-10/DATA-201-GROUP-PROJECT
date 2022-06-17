@@ -1,4 +1,3 @@
-# DATA-201-GROUP-PROJECT
 Simple and basic Exploratory data analysis
 
 # Simple and a basic Exploratory Data Analysis using Excel and Tableau 
